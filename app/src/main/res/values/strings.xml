@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Printing Double-sided</string>
+    <string name="select_printer">select printer</string>
+    <string name="file_name">file name</string>
+    <string name="file_path">file path</string>
+    <string name="double_sided">double sided</string>
+    <string name="select_pdf">select pdf</string>
+    <string name="print_pdf">print pdf</string>
+    <string name="pages">pages</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">双面打印</string>
+    <string name="select_printer">选择打印机</string>
+    <string name="file_name">文件名称</string>
+    <string name="file_path">文件路径</string>
+    <string name="double_sided">双页</string>
+    <string name="select_pdf">选择PDF</string>
+    <string name="print_pdf">打印PDF</string>
+    <string name="pages">页码</string>
+</resources>
