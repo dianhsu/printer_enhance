@@ -7,4 +7,6 @@
     <string name="select_pdf">select pdf</string>
     <string name="print_pdf">print pdf</string>
     <string name="pages">pages</string>
+    <string name="add_file">add file</string>
+    <string name="print_title">508 Print</string>
 </resources>

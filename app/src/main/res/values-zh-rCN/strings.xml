@@ -8,4 +8,6 @@
     <string name="select_pdf">选择PDF</string>
     <string name="print_pdf">打印PDF</string>
     <string name="pages">页码</string>
+    <string name="add_file">添加文件</string>
+    <string name="print_title">508打印机</string>
 </resources>
