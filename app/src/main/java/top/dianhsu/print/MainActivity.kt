@@ -10,16 +10,8 @@ import android.util.Log
 import android.widget.*
 import androidx.activity.result.contract.ActivityResultContracts
 import androidx.appcompat.app.AppCompatActivity
-import androidx.core.net.toUri
-import com.pdfview.PDFView
-import com.tom_roush.pdfbox.pdmodel.PDDocument
-import com.tom_roush.pdfbox.pdmodel.PDPage
-import com.tom_roush.pdfbox.util.PDFBoxResourceLoader
 import de.gmuth.ipp.cups.CupsClient
-import java.io.File
 import java.net.URI
-import java.util.*
-import kotlin.collections.ArrayList
 
 
 class MainActivity : AppCompatActivity() {
