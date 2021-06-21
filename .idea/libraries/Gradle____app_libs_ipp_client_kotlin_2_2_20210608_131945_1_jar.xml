@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="Gradle: ./app/libs/ipp-client-kotlin-2.2-20210608.131945-1.jar">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/app/libs/ipp-client-kotlin-2.2-20210608.131945-1.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
